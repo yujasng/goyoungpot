@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("hello, world?-by jiseu\n")
+    printf("hello, world?-by jiseu\n");
     printf("hello, world - by j1\n");
     printf("hello world! - by michelle3555\n");
 
@@ -12,6 +12,13 @@ int main(){
 }
 
 void byebye(){
+
 	printf("Byebye world?\n");
     printf("this is a new branch\n");
+}
+
+void hellohello(){
+
+
+    printf("hellohello\n");
 }
