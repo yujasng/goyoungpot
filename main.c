@@ -4,7 +4,7 @@ int main(){
 
     printf("hello, world\n");
     printf("hello, world - by j1\n");
-    printf("hello world - by michelle3555\n");
+    printf("hello world! - by michelle3555\n");
 
 
 
