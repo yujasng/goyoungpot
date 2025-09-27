@@ -10,3 +10,7 @@ int main(){
 
     return 0;
 }
+
+void byebye(){
+	printf("Byebye world!\n");
+}
